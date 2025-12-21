@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ホームタウン",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-21T04:40:31.453713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "センチメンタル ホームタウン",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/01_センチメンタル_ホームタウン_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "センチメンタル　ホームタウン",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/02_センチメンタル_ホームタウン_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hometown [ホームタウン]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Hometown_[ホームタウン]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ホームタウン ドミナ",
+      "artist": "下村陽子",
+      "has_synced": false,
+      "path": "select/04_ホームタウン_ドミナ_下村陽子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hometown (ホームタウン Hōmutaun)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_Hometown_(ホームタウン_Hōmutaun)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ホームタウン",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/06_ホームタウン_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ホームタウン - Home Town",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/07_ホームタウン_-_Home_Town_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ホームタウン",
+      "artist": "My Hair is Bad",
+      "has_synced": true,
+      "path": "select/08_ホームタウン_My_Hair_is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "センチメンタル ホームタウン",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/09_センチメンタル_ホームタウン_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ホームタウン",
+      "artist": "Ai Higuchi",
+      "has_synced": true,
+      "path": "select/10_ホームタウン_Ai_Higuchi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ホームタウン",
+      "artist": "Higuchi Ai",
+      "has_synced": true,
+      "path": "select/11_ホームタウン_Higuchi_Ai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホームタウン",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_ホームタウン_My_Hair_is_Bad.txt"
+    }
+  ]
+}
